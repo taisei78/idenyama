@@ -162,7 +162,7 @@ i {
     left: 15px;
     width: 30px;
     height: 2px;
-    background-color: rgb(255, 254, 254);
+    background-color: rgb(16, 16, 16);
     transition: all 0.5s;
     border-radius: 4px;
 }
